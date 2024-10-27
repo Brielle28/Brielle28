@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -27,6 +27,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
 
       - name: Commit changes
+        if: success() && steps.stats.outputs.has_changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
