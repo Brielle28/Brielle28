@@ -1,11 +1,9 @@
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
-
-<h1 align="center">Hi 👋, I'm Brielle</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
 
 **🐱 My GitHub Data** 
 
+>👋 hi, I'm Brielle
+>🔥 A passionate Frontend web developer from Nigeria
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
 > 🏆 152 Contributions in the Year 2024
@@ -18,7 +16,7 @@
  >
 > 📫 How to reach me **chukwuemerieclara@gmal.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brielle28&label=Profile%20views&color=0e75b6&style=flat" alt="brielle28" /> </p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brielle28" alt="brielle28" /></a> </p>
 **I'm a Night 🦉** 
