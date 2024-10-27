@@ -1,3 +1,12 @@
+
+<ul>
+ <li>👋 hi, i am Brielle </li>
+ <li>🔥 i passionate Front-end Web developer </li>
+ <li>💻 i'm open to collaboration and to hire </li>
+ <li>📬 you can reach me at **chukwuemerieclara@gmail.com**</li>
+</ul>
+ 
+ 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%207%20mins-blue)
 
