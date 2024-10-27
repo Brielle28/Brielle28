@@ -3,6 +3,7 @@
 **🐱 My GitHub Data** 
 
 >👋 hi, I'm Brielle
+>
 >🔥 A passionate Frontend web developer from Nigeria
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
