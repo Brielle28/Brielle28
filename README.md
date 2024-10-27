@@ -1,5 +1,5 @@
-<div align="center">
-  <h2>👋 Hi, I am Brielle</h2>
+<div align="left">
+  <p>👋 Hi, I am Brielle</p>
   <p>🔥 A passionate Front-end Web Developer</p>
   <p>💻 Open to collaboration and hiring opportunities</p>
   <p>📬 You can reach me at <strong>chukwuemerieclara@gmail.com</strong></p>
