@@ -1,9 +1,10 @@
-<div>
-  <h1>👋 Hi, I am Brielle</h1>
-  <h1>🔥 I am a passionate Front-end Web Developer</h1>
-  <h1>💻 I'm open to collaboration and to hire</h1>
-  <h1>📬 You can reach me at <strong>chukwuemerieclara@gmail.com</strong></h1>
+<div align="center">
+  <h2>👋 Hi, I am Brielle</h2>
+  <p>🔥 A passionate Front-end Web Developer</p>
+  <p>💻 Open to collaboration and hiring opportunities</p>
+  <p>📬 You can reach me at <strong>chukwuemerieclara@gmail.com</strong></p>
 </div>
+
 
  
  <!--START_SECTION:waka-->
