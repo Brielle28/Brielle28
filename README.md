@@ -1,13 +1,9 @@
  <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
 >👋 hi, I'm Brielle
 >
 >🔥 A passionate Frontend web developer from Nigeria
->
-> 📦 27.1 kB Used in GitHub's Storage 
- > 
+> 
 > 🏆 152 Contributions in the Year 2024
  > 
 > 👨‍💻 Open to collaborate and work
