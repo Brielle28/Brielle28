@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brielle28" alt="brielle28" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, typescript, MySQL, python,**
-
-- 💬 Ask me about **HTML, CSS, REACT**
+- 💬 Ask me about **HTML, CSS, REACT, JAVASCRIPT, TYPESCRIPT, NEXT JS, TAILWIND CSS, AG GRID**
 
 - 📫 How to reach me **chukwuemerieclara@gmal.com**
 
