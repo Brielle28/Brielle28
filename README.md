@@ -5,11 +5,12 @@
 >👋 hi, I'm Brielle
 >
 >🔥 A passionate Frontend web developer from Nigeria
+>
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
 > 🏆 152 Contributions in the Year 2024
  > 
-> 🚫 Open to collaborate 
+> 👨‍💻 Open to collaborate and work
  > 
 > 📜 14 Public Repositories 
  > 
