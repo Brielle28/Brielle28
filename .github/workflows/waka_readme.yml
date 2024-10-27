@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-   - cron: "0 */2 * * *" # Runs at 12am IST
+    - cron: "0 */2 * * *" # Runs every 2 hours
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -23,4 +25,11 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "True"
-          
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with WakaTime stats"
+          git push
