@@ -1,18 +1,26 @@
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
+<h1 align="center">Hi 👋, I'm Brielle</h1>
+<h3 align="center">A passionate software developer from Nigeria</h3>
+
 **🐱 My GitHub Data** 
 
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
 > 🏆 152 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Open to collaborate 
  > 
 > 📜 14 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
- > 
+ >
+> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brielle28&label=Profile%20views&color=0e75b6&style=flat" alt="brielle28" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brielle28" alt="brielle28" /></a> </p>
 **I'm a Night 🦉** 
 
 ```text
@@ -78,12 +86,8 @@ C#                       1 repo              █░░░░░░░░░░�
 
  Last Updated on 27/10/2024 13:29:44 UTC
 <!--END_SECTION:waka-->
-<h1 align="center">Hi 👋, I'm Brielle</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brielle28&label=Profile%20views&color=0e75b6&style=flat" alt="brielle28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brielle28" alt="brielle28" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, REACT, JAVASCRIPT, TYPESCRIPT, NEXT JS, TAILWIND CSS, AG GRID**
 
