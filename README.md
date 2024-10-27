@@ -83,13 +83,14 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
-
- Last Updated on 27/10/2024 13:29:44 UTC
-<!--END_SECTION:waka-->
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brielle28&show_icons=true&locale=en&layout=compact" alt="brielle28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brielle28&show_icons=true&locale=en" alt="brielle28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brielle28&" alt="brielle28" /></p>
+
+ Last Updated on 27/10/2024 13:29:44 UTC
+<!--END_SECTION:waka-->
+
+
+
