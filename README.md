@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
 
@@ -41,19 +41,19 @@ Sunday                   46 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-JavaScript               11 hrs 32 mins      ████████████████████████░   94.95 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JavaScript               7 hrs 9 mins        ████████████████████████░   97.54 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PasswordGenerator        8 hrs 34 mins       ██████████████████░░░░░░░   70.56 % 
-FreshFinds               3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+PasswordGenerator        4 hrs 50 mins       ████████████████░░░░░░░░░   65.95 % 
+FreshFinds               2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
 
 💻 Operating System: 
-Windows                  12 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 01:13:21 UTC
+ Last Updated on 02/11/2024 02:46:05 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
