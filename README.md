@@ -8,6 +8,8 @@
 
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107.3%20thousand%20lines%20of%20code-blue)
@@ -39,18 +41,18 @@ Sunday                   46 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-JavaScript               4 hrs 39 mins       ████████████████████████░   96.28 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript               4 hrs 5 mins        ████████████████████████░   95.78 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PasswordGenerator        4 hrs 50 mins       █████████████████████████   100.00 % 
+PasswordGenerator        4 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +72,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 01:16:29 UTC
+ Last Updated on 04/11/2024 02:53:57 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
