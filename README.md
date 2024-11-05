@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
@@ -41,18 +41,19 @@ Sunday                   46 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-JavaScript               4 hrs 5 mins        ████████████████████████░   95.78 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               5 hrs 29 mins       █████████████████████████   98.36 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PasswordGenerator        4 hrs 16 mins       █████████████████████████   100.00 % 
+PasswordGenerator        3 hrs 17 mins       ███████████████░░░░░░░░░░   58.91 % 
+FreshFinds               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +73,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 01:13:11 UTC
+ Last Updated on 05/11/2024 02:45:32 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
