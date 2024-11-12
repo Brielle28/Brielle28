@@ -10,7 +10,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.7%20thousand%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 06:22:51 UTC
+ Last Updated on 12/11/2024 08:21:04 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
