@@ -25,16 +25,3 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "True"
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git diff --cached --exit-code || git commit -m "Update README with WakaTime stats"
-        continue-on-error: true
-
-      - name: Push changes
-        if: success()
-        run: |
-          git push
