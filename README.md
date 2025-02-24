@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -61,11 +61,11 @@ Windows                  10 hrs 48 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████████░░░░░░░░░░░░░   46.34 % 
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
+TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -75,7 +75,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 22:14:44 UTC
+ Last Updated on 24/02/2025 01:17:20 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
