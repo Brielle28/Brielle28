@@ -1,10 +1,14 @@
 name: Waka Readme
 
+# on:
+#   schedule:
+#     - cron: "0 */2 * * *" # Runs every 2 hours
+#   workflow_dispatch:
 on:
   schedule:
-    - cron: "0 */2 * * *" # Runs every 2 hours
+    - cron: "0 8 * * *"  # Runs at 8 AM UTC
+    - cron: "0 20 * * *" # Runs at 8 PM UTC
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
