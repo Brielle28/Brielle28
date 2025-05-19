@@ -41,20 +41,16 @@ Sunday                   71 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 20 mins       ████████████████████░░░░░   78.05 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Aktivate-Assessment      2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 20:17:47 UTC
+ Last Updated on 19/05/2025 08:28:58 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
