@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 08:27:09 UTC
+ Last Updated on 23/05/2025 20:19:09 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
