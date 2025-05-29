@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,19 +41,18 @@ Sunday                   71 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 59 mins       █████████████████████░░░░   83.07 % 
-JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Vue.js                   5 hrs 17 mins       ████████████████████████░   95.38 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vueJobs                  4 hrs 48 mins       █████████████████████████   100.00 % 
+vueJobs                  5 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +72,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 20:19:26 UTC
+ Last Updated on 29/05/2025 08:27:19 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brielle28)
