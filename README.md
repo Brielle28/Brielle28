@@ -62,15 +62,6 @@ C#                       4 repos             ███░░░░░░░░�
 Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
-
-
- Last Updated on 04/12/2025 20:30:40 UTC
 <!--END_SECTION:waka-->
 
 
