@@ -8,9 +8,9 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.5%20thousand%20lines%20of%20code-blue)
 
@@ -41,16 +41,22 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.00 % 
+JavaScript               29 mins             █████████████░░░░░░░░░░░░   52.78 % 
+Bash                     21 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+VS Code                  42 mins             ███████████████████░░░░░░   77.60 % 
+Cursor                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 
 🐱‍💻 Projects: 
-JobBoard                 3 mins              █████████████████████████   100.00 % 
+Meine-Arbeitsproben      42 mins             ███████████████████░░░░░░   77.60 % 
+JobBoard                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +76,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 20:27:20 UTC
+ Last Updated on 19/12/2025 08:38:24 UTC
 <!--END_SECTION:waka-->
 
 
