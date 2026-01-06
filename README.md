@@ -41,17 +41,16 @@ Sunday                   81 commits          ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-JavaScript               39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VoiceNote                32 mins             ████████████████████░░░░░   80.81 % 
-PasswordGenerator        7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +70,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 20:31:59 UTC
+ Last Updated on 06/01/2026 08:40:47 UTC
 <!--END_SECTION:waka-->
 
 
