@@ -8,6 +8,8 @@
 
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-383.79%20thousand%20lines%20of%20code-blue?style=flat)
@@ -15,21 +17,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                190 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌆 Daytime                213 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
-🌃 Evening                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-🌙 Night                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌞 Morning                191 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌆 Daytime                213 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
+🌃 Evening                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+🌙 Night                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Wednesday                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Thursday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Wednesday                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Thursday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 
@@ -73,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 10:25:28 UTC
+ Last Updated on 24/07/2026 21:08:32 UTC
 <!--END_SECTION:waka-->
 
 
