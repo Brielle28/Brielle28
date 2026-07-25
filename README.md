@@ -8,7 +8,7 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,21 +41,21 @@ Sunday                   98 commits          ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Markdown                 8 hrs 14 mins       █████████████░░░░░░░░░░░░   52.47 % 
-C#                       5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown                 7 hrs 56 mins       █████████████░░░░░░░░░░░░   50.66 % 
+C#                       6 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+CSHTML                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 38 mins      ███████████████████░░░░░░   74.19 % 
-VS Code                  4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Claude Code              11 hrs 47 mins      ███████████████████░░░░░░   75.22 % 
+VS Code                  3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
 
 🐱‍💻 Projects: 
-solvesource              15 hrs 41 mins      █████████████████████████   100.00 % 
+solvesource              15 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 21:08:32 UTC
+ Last Updated on 25/07/2026 09:55:32 UTC
 <!--END_SECTION:waka-->
 
 
