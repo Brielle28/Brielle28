@@ -43,29 +43,29 @@ Sunday                   103 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Markdown                 4 hrs 39 mins       ███████████████████░░░░░░   74.67 % 
-SQL                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-C#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 4 hrs 29 mins       ██████████████████░░░░░░░   73.95 % 
+SQL                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+C#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 8 mins        █████████████░░░░░░░░░░░░   50.43 % 
-VS Code                  3 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.57 % 
+Claude Code              3 hrs 8 mins        █████████████░░░░░░░░░░░░   51.87 % 
+VS Code                  2 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.13 % 
 
 🐱‍💻 Projects: 
-solvesource              6 hrs 14 mins       █████████████████████████   100.00 % 
+solvesource              6 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (68.48%)
+⏱ AI Coding Time: 4 hrs 16 mins (70.43%)
 
-✍️ 1,886 lines written by AI, 849 lines written by hand (68.96% AI-written)
+✍️ 2,067 lines written by AI, 849 lines written by hand (70.88% AI-written)
 
 🔤 1,929,603 Input Tokens, 37,315 Output Tokens
 
@@ -73,13 +73,13 @@ Windows                  6 hrs 14 mins       ███████████�
 
 🧠 6 AI Sessions, 57 AI Prompts
 
-Sonnet                   2,183 lines         █████████████████████████   100.00 % 
+Sonnet                   2,348 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.96% of written lines came from AI
+🤖 AI-Driven — 70.88% of written lines came from AI
 📚 Verbose Prompter — average 2,190 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 33.1% of changed lines were hand-edited
+🚀 High AI Trust — 31.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 20:34:07 UTC
+ Last Updated on 26/08/2026 08:52:17 UTC
 <!--END_SECTION:waka-->
 
 
