@@ -43,47 +43,46 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Java                     9 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.04 % 
-Markdown                 4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Git Config               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Java                     10 hrs 51 mins      ████████████░░░░░░░░░░░░░   47.25 % 
+Markdown                 6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Git Config               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+XML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 14 mins      ████████████████░░░░░░░░░   64.52 % 
-VS Code                  7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+Claude Code              15 hrs 4 mins       ████████████████░░░░░░░░░   65.54 % 
+VS Code                  7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
 
 🐱‍💻 Projects: 
-solvepx-muni-api         17 hrs 41 mins      ██████████████████████░░░   86.17 % 
-ml-solvepx-muni-realtime 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-DiverClassic             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-solvesource              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+solvepx-muni-api         21 hrs 28 mins      ███████████████████████░░   93.22 % 
+DiverClassic             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+solvesource              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Windows                  20 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 16 mins (88.99%)
+⏱ AI Coding Time: 20 hrs 16 mins (88.17%)
 
-✍️ 4,588 lines written by AI, 553 lines written by hand (89.24% AI-written)
+✍️ 8,202 lines written by AI, 593 lines written by hand (93.26% AI-written)
 
-🔤 5,675,598 Input Tokens, 162,166 Output Tokens
+🔤 6,057,207 Input Tokens, 212,870 Output Tokens
 
-💵 $32.09 Estimated AI Cost This Week
+💵 $37.01 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 277 AI Prompts
+🧠 31 AI Sessions, 293 AI Prompts
 
-Sonnet                   6,000 lines         █████████████████████████   100.00 % 
+Sonnet                   10,456 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.24% of written lines came from AI
-📚 Verbose Prompter — average 5,623 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 10.03% of changed lines were hand-edited
+🤖 AI-Driven — 93.26% of written lines came from AI
+📚 Verbose Prompter — average 5,822 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +102,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 23:07:32 UTC
+ Last Updated on 25/09/2026 13:32:07 UTC
 <!--END_SECTION:waka-->
 
 
