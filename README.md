@@ -8,9 +8,9 @@
 
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,44 +43,43 @@ Sunday                   109 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Java                     10 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   41.38 % 
-Markdown                 9 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.96 % 
-XML                      2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-SQL                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Java                     14 hrs 57 mins      █████████████░░░░░░░░░░░░   50.94 % 
+Markdown                 10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   36.30 % 
+XML                      2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 7 mins       ██████████████████░░░░░░░   72.79 % 
-VS Code                  6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Claude Code              20 hrs 59 mins      ██████████████████░░░░░░░   71.46 % 
+VS Code                  8 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
 
 🐱‍💻 Projects: 
-solvepx-muni-api         23 hrs 18 mins      ███████████████████████░░   93.56 % 
-solvesource              1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+solvepx-muni-api         29 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 11 mins (81.03%)
+⏱ AI Coding Time: 23 hrs 51 mins (81.23%)
 
-✍️ 12,779 lines written by AI, 313 lines written by hand (97.61% AI-written)
+✍️ 18,763 lines written by AI, 325 lines written by hand (98.3% AI-written)
 
-🔤 9,501,807 Input Tokens, 661,829 Output Tokens
+🔤 10,291,755 Input Tokens, 884,568 Output Tokens
 
-💵 $64.97 Estimated AI Cost This Week
+💵 $81.14 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 293 AI Prompts
+🧠 19 AI Sessions, 326 AI Prompts
 
-Sonnet                   13,479 lines        █████████████████████████   100.00 % 
+Sonnet                   19,777 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.61% of written lines came from AI
-📚 Verbose Prompter — average 2,713 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 4.49% of changed lines were hand-edited
+🤖 AI-Driven — 98.3% of written lines came from AI
+📚 Verbose Prompter — average 3,025 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 3.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Brielle28/Brielle28/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 00:13:38 UTC
+ Last Updated on 09/10/2026 15:10:49 UTC
 <!--END_SECTION:waka-->
 
 
